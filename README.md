@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thegeek36
 - 👀 I’m interested in Coding and devlopment
 - 🌱 I’m currently learning Data Sciencce
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Connect with me on Linkedin https://www.linkedin.com/in/priyanshu-panda-56b2001b4/
 - 📫 You can reach me at priyanshupanda36@gmail.com
 
 <!---
