@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thegeek36
 - 👀 I’m interested in Coding and devlopment
-- 🌱 I’m currently learning Data Sciencce
+- 🌱 I’m currently learning Data Sciencce and Machine Learning
 - 📫 You can reach me at priyanshupanda36@gmail.com
 
 <!---
